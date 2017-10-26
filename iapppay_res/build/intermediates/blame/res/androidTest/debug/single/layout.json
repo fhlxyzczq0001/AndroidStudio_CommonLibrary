@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_account_bind_item.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_account_bind_item.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_hxkeyboard.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_hxkeyboard.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_charge_layout.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_charge_layout.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_keyboard.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_keyboard.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_title_bar_activity.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_title_bar_activity.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_common_tip_layout.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_common_tip_layout.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_loading_dialog.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_loading_dialog.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_layout_common_single_dialog.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_layout_common_single_dialog.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_spinner_itme.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_spinner_itme.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_wait_dialog.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_wait_dialog.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_common_webview_layout.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_common_webview_layout.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_hxkeyboard_land.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_hxkeyboard_land.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_credit_keyboard_land.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_credit_keyboard_land.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_title_bar_normal.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_title_bar_normal.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_list_widget.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_list_widget.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_record.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_record.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_charge_type_item.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_charge_type_item.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_vedio.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_vedio.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_layout_common_single_dialog_item.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_layout_common_single_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_pay_type_item.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_pay_type_item.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_service_center_layout.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_service_center_layout.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_layout_common_alert_dialog.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_layout_common_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_account_bind_layout.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_account_bind_layout.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_text_item.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_text_item.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_keyboard_land.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_keyboard_land.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\payeco_plugin_credit_keyboard.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\payeco_plugin_credit_keyboard.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_sub_game_pay_v.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_sub_game_pay_v.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_select_amount_item.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_select_amount_item.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_pay_hub_layout_h.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_pay_hub_layout_h.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_title_bar_mini.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_title_bar_mini.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_sub_game_pay_title_bar.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_sub_game_pay_title_bar.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_select_amount_layout.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_select_amount_layout.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_ui_pay_hub_layout_v.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_ui_pay_hub_layout_v.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ipay_sub_game_pay_common_layout.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\layout\\ipay_sub_game_pay_common_layout.xml"
+    }
+]

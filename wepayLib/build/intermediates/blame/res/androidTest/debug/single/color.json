@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\wepay_first_btn_txt.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\color\\wepay_first_btn_txt.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\wepay_second_btn_txt.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\color\\wepay_second_btn_txt.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\wepay_resend_btn_txt.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\color\\wepay_resend_btn_txt.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\wepay_text_main_color.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\color\\wepay_text_main_color.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\wepay_common_link_bg.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\color\\wepay_common_link_bg.xml"
+    }
+]

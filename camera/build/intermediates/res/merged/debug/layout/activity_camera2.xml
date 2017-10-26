@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="false"
+    tools:context="com.xdandroid.hellocamera2.CameraActivity">
+
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="com.xdandroid.hellocamera2.CameraActivity"
+        tools:showIn="@layout/activity_camera">
+        <TextureView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/texture_camera_preview"/>
+        <!--<FrameLayout
+            android:id="@+id/fl_camera_preview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <!--<View
+                android:layout_width="52px"
+                android:id="@+id/view_camera_dark0"
+                android:layout_height="match_parent"
+                android:background="#8A000000"/>-->
+            <RelativeLayout
+                android:id="@+id/view_camera_dark0"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@android:color/black"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/camera_flash_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp"
+                    android:padding="20dp"
+                    android:rotation="-90"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"/>
+            </RelativeLayout>
+            >
+            <!--android:layout_width="896px"-->
+            <LinearLayout
+                android:id="@+id/view_camera_dark1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_camera_hint"
+                    android:layout_width="match_parent"
+                    android:layout_height="80px"
+                    android:background="#8A000000"
+                    android:gravity="center"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="28px"/>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:id="@+id/id_background"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@mipmap/id_background"
+                        />
+
+                    <!--<View
+                        android:layout_width="6px"
+                        android:layout_height="110px"
+                        android:layout_gravity="top|left"
+                        android:background="@color/colorPrimary"/>
+
+                    <View
+                        android:layout_width="6px"
+                        android:layout_height="110px"
+                        android:layout_gravity="top|right"
+                        android:background="@color/colorPrimary"/>
+
+                    <View
+                        android:layout_width="6px"
+                        android:layout_height="110px"
+                        android:layout_gravity="bottom|left"
+                        android:background="@color/colorPrimary"/>
+
+                    <View
+                        android:layout_width="6px"
+                        android:layout_height="110px"
+                        android:layout_gravity="bottom|right"
+                        android:background="@color/colorPrimary"/>
+
+                    <View
+                        android:layout_width="110px"
+                        android:layout_height="6px"
+                        android:layout_gravity="top|left"
+                        android:background="@color/colorPrimary"/>
+
+                    <View
+                        android:layout_width="110px"
+                        android:layout_height="6px"
+                        android:layout_gravity="top|right"
+                        android:background="@color/colorPrimary"/>
+
+                    <View
+                        android:layout_width="110px"
+                        android:layout_height="6px"
+                        android:layout_gravity="bottom|left"
+                        android:background="@color/colorPrimary"/>
+
+                    <View
+                        android:layout_width="110px"
+                        android:layout_height="6px"
+                        android:layout_gravity="bottom|right"
+                        android:background="@color/colorPrimary"/>-->
+
+                </FrameLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="52px"
+                    android:background="#8A000000"/>
+
+            </LinearLayout>
+
+            <!--<View
+                android:layout_width="0px"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="#8A000000"/>-->
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@android:color/black"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:rotation="-90"
+                    android:text="照片"
+                    android:textColor="@color/colorYellow"
+                    android:textSize="20dp"/>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/iv_change_camera"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@mipmap/btn_camera_turn_n"
+                        android:layout_centerHorizontal="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginTop="20dp"/>
+                    <ImageView
+                        android:id="@+id/iv_camera_button"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/selector"
+                        android:layout_centerVertical="true"/>
+                    <TextView
+                        android:id="@+id/tv_cancel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="取消"
+                        android:textColor="@android:color/white"
+                        android:textSize="20dp"
+                        android:rotation="-90"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginBottom="20dp"
+                        android:layout_centerHorizontal="true"/>
+                </RelativeLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!--<ImageView
+            android:id="@+id/iv_camera_button"
+            android:layout_width="144px"
+            android:layout_height="144px"
+            android:layout_gravity="center_vertical|left"
+            android:layout_marginLeft="1000px"
+            android:src="@drawable/selector"/>-->
+
+    </FrameLayout>
+
+</android.support.design.widget.CoordinatorLayout>

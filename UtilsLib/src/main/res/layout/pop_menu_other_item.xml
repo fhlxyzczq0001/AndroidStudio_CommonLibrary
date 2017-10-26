@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/popMenuOther_item"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#F9F9F9"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="#777777"
+        android:textSize="14sp" />

@@ -1,0 +1,68 @@
+[
+    {
+        "outputFile": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\seekBarLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 830,
+                    "endColumn": 47,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\seekBarLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 830,
+                        "endColumn": 47,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 1164
+                },
+                "from": {
+                    "file": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\seekBarLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 1164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1169,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1324
+                },
+                "from": {
+                    "file": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\seekBarLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1169,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1324
+                    }
+                }
+            }
+        ]
+    }
+]

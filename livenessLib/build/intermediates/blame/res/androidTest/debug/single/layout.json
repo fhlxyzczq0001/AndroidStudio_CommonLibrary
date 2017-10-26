@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\liveness_detection_step.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\bundles\\debug\\res\\layout\\liveness_detection_step.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\liveness_layout.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\bundles\\debug\\res\\layout\\liveness_layout.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bottom_title_layout.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\bundles\\debug\\res\\layout\\bottom_title_layout.xml"
+    }
+]

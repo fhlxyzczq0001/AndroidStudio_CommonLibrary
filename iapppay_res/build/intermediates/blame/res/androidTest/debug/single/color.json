@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_common_btn_normal.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_btn_normal.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_common_btn_pressed.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_btn_pressed.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_common_btn_disable.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_btn_disable.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ipay_common_bg.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\color\\ipay_common_bg.xml"
+    }
+]

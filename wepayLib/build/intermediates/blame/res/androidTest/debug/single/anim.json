@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_wave_scale_reset.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_wave_scale_reset.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_fade_out.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_push_right_out.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_push_right_out.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_shake.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_shake.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_fade_in.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_wave_scale_expand.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_wave_scale_expand.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_wave_scale_shrink.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_wave_scale_shrink.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_cycle_5.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_cycle_5.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_rotate.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_rotate.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_push_left_in.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_push_left_in.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_push_right_in.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_push_right_in.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\wepay_push_left_out.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\anim\\wepay_push_left_out.xml"
+    }
+]

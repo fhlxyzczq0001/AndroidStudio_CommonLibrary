@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_icon_confirm.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_icon_confirm.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_select_arrow_disable.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_select_arrow_disable.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_wheelbg.9.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_wheelbg.9.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_textfield_default_holo_light.9.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_icon_mobile.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_icon_mobile.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_icon_card.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_icon_card.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_ic_complete.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_ic_complete.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_ic_uparrow.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_ic_uparrow.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_icon_people.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_icon_people.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_icon_success.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_icon_success.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_cursor_blue.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_cursor_blue.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_icon_warning.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_icon_warning.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_select_arrow_enable.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_select_arrow_enable.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_textfield_focused_holo_light.9.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_loading_light.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_loading_light.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_blacklabel.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_blacklabel.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_ic_delete.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_ic_delete.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_select_arrow_pressed.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_select_arrow_pressed.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_textfield_disabled_focused_holo_light.9.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_icon_error.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_icon_error.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_ic_downarrow.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_ic_downarrow.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_textfield_activated_holo_light.9.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wepay_textfield_disabled_holo_light.9.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wepay_textfield_disabled_holo_light.9.png"
+    }
+]

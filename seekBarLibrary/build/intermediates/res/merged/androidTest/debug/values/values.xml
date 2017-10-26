@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomSeekBar"><attr format="string" name="numTextFormat"/><attr format="reference" name="numbackground"/><attr format="dimension" name="numTextSize"/><attr format="color" name="numTextColor"/><attr format="string" name="numScale"/><attr format="boolean" name="isShow_Start_End_mark_line"/><attr format="color" name="markLineColor"/><attr format="color" name="startAndEndColor"/><attr format="dimension" name="markLineHight"/><attr format="string" name="prefix_text"/><attr format="boolean" name="isShowTxtBg"/><attr format="boolean" name="isRound"/><attr format="integer" name="digit"/><attr format="enum" name="numType">
+            <enum name="top" value="48"/>
+            <enum name="bottom" value="80"/>
+        </attr></declare-styleable>
+    <string name="app_name">My Library</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

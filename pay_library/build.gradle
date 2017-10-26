@@ -1,0 +1,38 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 11
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:24.2.0'
+    //    compile files('libs/alipaySdk-20160825.jar')
+    //    compile files('../common_libs/libammsdk.jar')
+    provided files('../common_libs/fastjson-1.2.21.jar')
+    compile project(':AndroidStudio_CommonLibrary:iapppay_res')
+    compile project(':AndroidStudio_CommonLibrary:wepayLib')
+    compile files('libs/wftsdk3.0.jar')
+    compile files('libs/jhpaysdk.jar')
+    compile files('libs/HeepayPlugin_v3.0.jar')
+    compile files('libs/cmbkeyboard.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/JshyPayUtilsApp2.0.jar')
+}

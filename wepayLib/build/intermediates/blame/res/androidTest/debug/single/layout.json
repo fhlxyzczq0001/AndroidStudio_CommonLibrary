@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_sms_checkcode.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_sms_checkcode.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_order_info.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_order_info.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_select_bankcard.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_select_bankcard.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_tableview_item_shell_withline.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_tableview_item_shell_withline.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_signfail.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_signfail.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_cardinfo_new.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_cardinfo_new.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_common_dialog.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_common_dialog.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_cp_idcard_info_input.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_cp_idcard_info_input.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_set_paypwd.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_set_paypwd.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_cp_card_info_input.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_cp_card_info_input.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_cp_toast.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_cp_toast.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_common_progress.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_common_progress.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_cp_actionbar.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_cp_actionbar.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_cp_textview.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_cp_textview.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_tableview_basic_item.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_tableview_basic_item.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_cp_picker_bank.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_cp_picker_bank.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_pay_passwd_checkcode.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_pay_passwd_checkcode.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_progressweb_view.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_progressweb_view.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_mobile_info.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_mobile_info.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_mobile_new.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_mobile_new.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_splash.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_splash.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_cp_dialog.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_cp_dialog.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_confirm_new.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_confirm_new.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_mobile_jd.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_mobile_jd.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_activity_wepay.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_activity_wepay.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_select_agreement.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_select_agreement.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_result.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_result.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_rich_amount_text.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_rich_amount_text.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_tableview_container.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_tableview_container.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_jdpin_login.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_jdpin_login.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_completeinfo.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_completeinfo.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_fragment_web.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_fragment_web.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_cp_actionbar_new.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_cp_actionbar_new.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_bankcard_select.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_bankcard_select.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_tableview_item_shell.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_tableview_item_shell.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wepay_webview_error_view.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\wepayLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wepay_webview_error_view.xml"
+    }
+]

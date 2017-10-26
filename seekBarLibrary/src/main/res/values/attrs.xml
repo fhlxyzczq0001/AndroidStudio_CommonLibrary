@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomSeekBar">
+        <attr name="numTextFormat" format="string"/>
+        <attr name="numbackground" format="reference"/>
+        <attr name="numTextSize" format="dimension"/>
+        <attr name="numTextColor" format="color"/>
+        <attr name="numScale" format="string"/>
+        <attr name="isShow_Start_End_mark_line" format="boolean"/>
+        <attr name="markLineColor" format="color"/>
+        <attr name="startAndEndColor" format="color"/>
+        <attr name="markLineHight" format="dimension"/>
+        <attr name="prefix_text" format="string"/>
+        <attr name="isShowTxtBg" format="boolean"/>
+        <attr name="isRound" format="boolean"/>
+        <attr name="digit" format="integer"/>
+        <attr name="numType" format="enum">
+            <enum name="top" value="48"/>
+            <enum name="bottom" value="80"/>
+        </attr>
+
+    </declare-styleable>
+</resources>

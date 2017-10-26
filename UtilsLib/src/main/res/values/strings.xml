@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UtilsLib</string>
+    <!--网络异常-->
+    <string name="NETWORK_NO_OPEN">网络异常，请检查是否开启网络！</string>
+    <string name="NETWORK_NO_PING">网络异常，不能访问外部网络，请检查网络设置！</string>
+    <string name="NETWORK_SUCCESS">网络正常</string>
+</resources>

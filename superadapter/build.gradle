@@ -1,0 +1,30 @@
+apply plugin: 'com.android.library'
+
+group = "org.byteam.superadapter"
+version = "3.6.7"
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 25
+        versionCode 29
+        versionName version
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    provided 'com.android.support:recyclerview-v7:25.3.1'
+}
+
+//apply from: 'bintray.gradle'

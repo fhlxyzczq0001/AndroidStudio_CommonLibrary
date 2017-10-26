@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_fillet_bg_color_7.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_fillet_bg_color_7.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_list_item_selector.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_list_item_selector.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_btn_bank_card_selector.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_btn_bank_card_selector.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_ui_back_selector.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_ui_back_selector.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_listview_item_selector.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_listview_item_selector.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_btn_bg_orange2.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_btn_bg_orange2.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_border_style.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_border_style.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_common_checkbox_selector.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_common_checkbox_selector.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_common_radio_btn_selector.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_common_radio_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_fillet_border_color_8_2.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_fillet_border_color_8_2.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_loading.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_loading.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_list_widget_item_bg.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_list_widget_item_bg.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_border_blue_style.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_border_blue_style.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_checkbox_selector.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_checkbox_selector.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_list_item_selector_white.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_list_item_selector_white.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_common_btn_bg_color.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_common_btn_bg_color.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_common_btn_text_color.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_common_btn_text_color.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_btn_bg_left_back.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_btn_bg_left_back.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_bg.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_bg.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ipay_btn_bg_orange.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\iapppay_res\\build\\intermediates\\bundles\\debug\\res\\drawable\\ipay_btn_bg_orange.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\liveness_phoneimage.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\liveness_phoneimage.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    }
+]

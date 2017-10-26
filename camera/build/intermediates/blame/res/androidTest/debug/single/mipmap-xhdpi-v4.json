@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_flash_off_normal.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_flash_off_normal.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_flash_all_on_press.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_flash_all_on_press.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\image_default.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\image_default.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\camera_button.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\camera_button.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_flash_auto_normal.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_flash_auto_normal.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_camera_flash_auto.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_camera_flash_auto.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\camera_button_pressed.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\camera_button_pressed.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_flash_auto_press.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_flash_auto_press.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_flash_on_normal.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_flash_on_normal.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\id_background.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\id_background.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_flash_on_press.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_flash_on_press.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_flash_all_on_normal.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_flash_all_on_normal.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_camera_turn_n.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_camera_turn_n.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_camera_flash_off.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_camera_flash_off.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_flash_off_press.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_flash_off_press.png"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\btn_camera_flash_on.png",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\camera\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\btn_camera_flash_on.png"
+    }
+]

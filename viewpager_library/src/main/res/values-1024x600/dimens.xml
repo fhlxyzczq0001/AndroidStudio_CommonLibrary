@@ -1,0 +1,26 @@
+<resources>
+    <!-- 字体设置 -->
+    <dimen name="text_size0">7sp</dimen>
+    <dimen name="text_size1">8sp</dimen>
+    <dimen name="text_size2">9sp</dimen>
+    <dimen name="text_size3">10sp</dimen>
+    <dimen name="text_size4">11sp</dimen>
+    <dimen name="text_size5">12sp</dimen>
+    <dimen name="text_size6">13sp</dimen>
+    <dimen name="text_size7">14sp</dimen>
+    <dimen name="text_size8">15sp</dimen>
+    <dimen name="text_size9">16sp</dimen>
+    <dimen name="text_size10">17sp</dimen>
+    <dimen name="text_size11">18sp</dimen>
+    <dimen name="text_size12">19sp</dimen>
+    <dimen name="text_size13">20sp</dimen>
+    <dimen name="text_size14">21sp</dimen>
+    <dimen name="text_size15">22sp</dimen>
+    <dimen name="text_size16">23sp</dimen>
+    <dimen name="text_size17">24sp</dimen>
+    <dimen name="text_size18">25sp</dimen>
+    <dimen name="text_size19">26sp</dimen>
+    <dimen name="text_size20">27sp</dimen>
+
+    <dimen name="mainUserFragmentMemberH">18dip</dimen>
+</resources>

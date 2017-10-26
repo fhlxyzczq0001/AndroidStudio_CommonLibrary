@@ -1,0 +1,13 @@
+apply plugin: 'com.android.library'
+
+android {
+    useLibrary "org.apache.http.legacy"
+
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 24
+    }
+}

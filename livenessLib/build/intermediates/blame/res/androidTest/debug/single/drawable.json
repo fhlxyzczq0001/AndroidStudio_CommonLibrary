@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\liveness_head_pitch.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\liveness_head_pitch.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\liveness_mouth_open_closed.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\liveness_mouth_open_closed.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\liveness_eye_open_closed.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\liveness_eye_open_closed.xml"
+    },
+    {
+        "merged": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\liveness_head_yaw.xml",
+        "source": "D:\\AS_WS\\AndroidStudio_CommonLibrary\\livenessLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\liveness_head_yaw.xml"
+    }
+]

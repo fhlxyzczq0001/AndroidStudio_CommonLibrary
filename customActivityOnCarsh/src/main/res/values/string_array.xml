@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="customactivityoncrash_exceptions">
+        <item>NullPointerException</item><!--空指针引用异常-->
+        <item>ClassCastException</item><!--类型强制转换异常-->
+        <item>IllegalArgumentException</item><!--传递非法参数异常-->
+        <item>ArithmeticException</item><!--算术运算异常-->
+        <item>ArrayStoreException</item><!--向数组中存放与声明类型不兼容对象异常-->
+        <item>IndexOutOfBoundsException</item><!--下标越界异常-->
+        <item>NegativeArraySizeException</item><!--创建一个大小为负数的数组错误异常-->
+        <item>NumberFormatException</item><!-- 数字格式异常-->
+        <item>SecurityException</item><!--安全异常-->
+        <item>UnsupportedOperationException</item><!--不支持的操作异常-->
+
+        <item>NegativeArrayException</item><!--数组负下标异常-->
+        <item>ArrayIndexOutOfBoundsException</item><!--数组下标越界异常-->
+        <item>FileNotFoundException</item><!--文件未找到异常-->
+        <item>SQLException</item><!--操作数据库异常-->
+        <item>IOException</item><!--输入输出异常-->
+        <item>NoSuchMethodException</item><!--方法未找到异常-->
+    </string-array>
+
+    <string-array name="customactivityoncrash_exceptions_num">
+        <item>8001</item><!--空指针引用异常-->
+        <item>8002</item><!--类型强制转换异常-->
+        <item>8003</item><!--传递非法参数异常-->
+        <item>8004</item><!--算术运算异常-->
+        <item>8005</item><!--向数组中存放与声明类型不兼容对象异常-->
+        <item>8006</item><!--下标越界异常-->
+        <item>8007</item><!--创建一个大小为负数的数组错误异常-->
+        <item>8008</item><!-- 数字格式异常-->
+        <item>8009</item><!--安全异常-->
+        <item>8010</item><!--不支持的操作异常-->
+
+        <item>8011</item><!--数组负下标异常-->
+        <item>8012</item><!--数组下标越界异常-->
+        <item>8013</item><!--文件未找到异常-->
+        <item>8013</item><!--操作数据库异常-->
+        <item>8014</item><!--输入输出异常-->
+        <item>8015</item><!--方法未找到异常-->
+    </string-array>
+</resources>

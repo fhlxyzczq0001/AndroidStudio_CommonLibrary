@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2015 Eduard Ereza Martínez
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~
+  ~ You may obtain a copy of the License at
+  ~    http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">An unexpected error occurred.\nSorry for the inconvenience.</string>
+    <string name="customactivityoncrash_error_activity_unknown_exception">Unknown exception</string>
+    <string name="customactivityoncrash_error_activity_restart_app">Restart app</string>
+    <string name="customactivityoncrash_error_activity_close_app">Close app</string>
+    <string name="customactivityoncrash_error_activity_error_details">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">Close</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">Copy to clipboard</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">Copied to clipboard</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">Error information</string>
+
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation_zh">一个意想不到的错误发生，非常抱歉为给您带来的不便</string>
+    <string name="customactivityoncrash_error_activity_restart_app_zh">返回重试</string>
+    <string name="customactivityoncrash_error_activity_error_details_title_zh">错误详情</string>
+    <string name="customactivityoncrash_error_activity_error_details_zh">错误详情</string>
+    <string name="customactivityoncrash_error_activity_error_details_close_zh">关  闭</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy_zh">复  制</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied_zh">复制到剪贴板</string>
+</resources>

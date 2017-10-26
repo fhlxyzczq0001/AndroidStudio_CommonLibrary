@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxRetrofitLibrary</string>
+    <string name="HTTPDNS_Exception">HTTPDNS_Exception</string>
+</resources>
